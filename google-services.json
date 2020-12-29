@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "34986618678",
+    "firebase_url": "https://sinavsavaslari-536fe.firebaseio.com",
+    "project_id": "sinavsavaslari-536fe",
+    "storage_bucket": "sinavsavaslari-536fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34986618678:android:624ca14ebf7e09ec724d97",
+        "android_client_info": {
+          "package_name": "com.example.SinavSavaslari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34986618678-fp5f9iktjvg042ecd8reg0q4u7o31bhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.SinavSavaslari",
+            "certificate_hash": "007933f507b2bf01a4ba9c1d6460781ddb8b74a7"
+          }
+        },
+        {
+          "client_id": "34986618678-uhuhmudlrlrbf7tdn3859jdnngmf3p05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADtUT_EvTa9G6usmo7EMp1mq8HmfZPKcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34986618678-uhuhmudlrlrbf7tdn3859jdnngmf3p05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
